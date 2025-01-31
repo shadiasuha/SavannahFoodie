@@ -9,7 +9,7 @@ const restaurants = [
     phoneNumber: '(912) 777-5888',
     hoursOfOperation: '11:00 AM - 10:00 PM Sunday - Saturday',
     cuisineType: 'American Southern',
-    popularDishes: 'Crab Cakes, Truffle Fries, and Shrimp & Grits',
+    popularDishes: 'Crab Cakes, Truffle Fries, Shrimp & Grits',
     menus: {
       breakfastOrBrunch: 'https://www.ardsleystation.com/menus/#brunch',
       lunch: 'https://www.ardsleystation.com/menus/#lunch',
