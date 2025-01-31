@@ -1,5 +1,52 @@
+.delius-regular {
+  font-family: 'Delius', serif;
+  font-weight: 400;
+  font-style: normal;
+}
+.rasa {
+  font-family: 'Rasa', serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+
 body {
   margin: 0;
   box-sizing: border-box;
+  height: 100vh;
   background-color: blanchedalmond;
+  font-family: 'Rasa', serif;
+  font-size: 14px;
+}
+
+img {
+  height: 200px;
+  width: 300px;
+}
+
+h1 {
+  font-family: 'Delius', serif;
+  text-align: center;
+  font-weight: bold;
+  font-size: 60px;
+}
+.cardGrid {
+  border: 1px solid black;
+  box-shadow: 5px 5px 5px hsla(0, 0%, 0%, 0.2);
+  height: 100vh;
+  width: 100vh;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  grid-template-rows: 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+}
+
+.card .cardImage {
+  max-width: 75%;
+  height: auto;
+  border-radius: 15px;
+}
+
+.card .cardTitle {
+  font-family: 'Rasa', serif;
+  margin: 0;
 }

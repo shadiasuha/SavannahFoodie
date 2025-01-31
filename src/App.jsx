@@ -1,17 +1,17 @@
 import './App.css'
 import Header from './components/Header.jsx'
-import Sidebar from './Sidebar.jsx'
-import Card from './components/Card.jsx'
-import Restaurant from './components/Restaurant.jsx'
+import Sidebar from './components/Sidebar.jsx'
+import MainContent from './components/MainContent.jsx'
 import Footer from './components/Footer.jsx'
+import restaurants from './restaurants.js'
 
 const App = () => {
+  console.log(restaurants)
   return (
     <div>
       <Header />
       <Sidebar />
-      <Card />
-      <Restaurant />
+      <MainContent restaurants={restaurants} />
       <Footer />
     </div>
   )
