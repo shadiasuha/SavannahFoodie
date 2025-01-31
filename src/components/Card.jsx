@@ -1,4 +1,4 @@
-import '../App.css'
+import './Card.css'
 
 const Card = ({ restaurant }) => {
   return (

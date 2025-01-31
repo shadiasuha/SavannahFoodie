@@ -1,0 +1,4 @@
+.cardGrid {
+  display: grid;
+  grid-template: 150px; / auto auto auto auto;
+}

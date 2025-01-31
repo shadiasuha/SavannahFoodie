@@ -52,17 +52,33 @@ h3 {
 }
 
 p {
-  padding: 3px;
+  padding: 2px;
   margin: 0;
 }
 
 .cardGrid {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+  grid-template-rows: 1fr 1fr 1fr 1fr 1fr;
+  width: 75%;
+}
+
+.cardGridItems {
+  display: flex;
+  justify-content: left;
+}
+/* .cardGrid {
   height: 3000px;
   width: 2400px;
   display: grid;
   grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
   grid-template-rows: 1fr 1fr 1fr;
-}
+} */
+
+/* .cardGrid {
+  display: grid;
+  grid-template-columns: repeat(4, 25%);
+} */
 
 .card .cardImage {
   max-width: 75%;
