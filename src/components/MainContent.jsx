@@ -3,7 +3,7 @@ import Card from './Card'
 const MainContent = ({ restaurants }) => {
   return (
     <div className="main">
-      <h1>Restaurants</h1>
+      <h2 className="subheading">Restaurants</h2>
       <div className="cardGrid">
         <ul>
           {restaurants.map((restaurant) => (

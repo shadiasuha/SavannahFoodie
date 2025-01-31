@@ -11,7 +11,6 @@
 }
 
 body {
-  margin: 0;
   box-sizing: border-box;
   height: 100vh;
   background-color: blanchedalmond;
@@ -19,9 +18,16 @@ body {
   font-size: 14px;
 }
 
+.subheading {
+  text-align: center;
+}
+
 img {
   height: 200px;
   width: 300px;
+  border: 1px solid black;
+  box-shadow: 5px 5px 5px hsla(0, 0%, 0%, 0.2);
+  border-radius: 15%;
 }
 
 h1 {
@@ -30,14 +36,22 @@ h1 {
   font-weight: bold;
   font-size: 60px;
 }
+
+h2 {
+  font-size: 30px;
+  font-style: italic;
+}
+
+h3 {
+  text-align: center;
+}
 .cardGrid {
-  border: 1px solid black;
-  box-shadow: 5px 5px 5px hsla(0, 0%, 0%, 0.2);
-  height: 100vh;
-  width: 100vh;
+  height: 3000px;
+  width: 2400px;
+  margin: 20px;
   display: grid;
-  grid-template-columns: 1fr 1fr 1fr 1fr;
-  grid-template-rows: 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
+  grid-template-rows: 1fr 1fr 1fr;
 }
 
 .card .cardImage {
@@ -49,4 +63,16 @@ h1 {
 .card .cardTitle {
   font-family: 'Rasa', serif;
   margin: 0;
+}
+
+.sidebar {
+  width: 40 vw;
+  text-align: center;
+}
+
+.footer {
+  bottom: 0;
+  width: 100%;
+  text-align: center;
+  padding-top: 50px;
 }
