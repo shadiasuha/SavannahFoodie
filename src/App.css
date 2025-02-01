@@ -11,7 +11,7 @@
 }
 
 body {
-  margin: 0 auto;
+  margin: 0;
   box-sizing: border-box;
   height: 100vh;
   background: linear-gradient(blanchedalmond, rgb(198, 222, 241));
@@ -26,15 +26,6 @@ body {
   margin: 0;
 }
 
-.gridImage {
-  height: 200px;
-  width: 300px;
-  border: 1px solid black;
-  box-shadow: 5px 5px 5px hsla(0, 0%, 0%, 0.2);
-  border-radius: 15%;
-  margin: 20px;
-}
-
 .header {
   display: block;
   margin: 0 auto;
@@ -43,6 +34,13 @@ body {
   background-image: url('./images/savannah.png');
   background-repeat: no-repeat;
   text-align: center;
+}
+
+.footer {
+  bottom: 0;
+  width: 100%;
+  text-align: center;
+  padding-top: 50px;
 }
 
 h1 {
@@ -67,54 +65,30 @@ p {
   margin: 0;
 }
 
-.cardGrid {
-  /* display: grid;
-  grid-template-columns: repeat(autofill, minmax(75px, max-content));
-  width: 20rem; */
-  display: flex;
-  flex-wrap: wrap;
+@media (max-width: 800px) {
+  .cardGrid {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 15px;
+  }
 }
 
 .cardGridItems {
   display: flex;
   align-items: left;
-}
-/* .cardGrid {
-  height: 3000px;
-  width: 2400px;
-  display: grid;
-  grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
-  grid-template-rows: 1fr 1fr 1fr;
-} */
-
-/* .cardGrid {
-  display: grid;
-  grid-template-columns: repeat(4, 25%);
-} */
-
-.card .cardImage {
-  max-width: 75%;
-  height: auto;
-  border-radius: 15px;
+  width: 70vw;
 }
 
-.card .cardTitle {
-  font-family: 'Rasa', serif;
-  margin: 0;
-}
-
-.sidebar {
-  width: 40 vw;
-  text-align: center;
+.gridImage {
+  height: 200px;
+  width: 300px;
+  border: 1px solid black;
+  box-shadow: 5px 5px 5px hsla(0, 0%, 0%, 0.2);
+  border-radius: 15%;
+  margin: 20px;
 }
 
 /* .header {
   width: 100%;
   text-align: center;
 } */
-.footer {
-  bottom: 0;
-  width: 100%;
-  text-align: center;
-  padding-top: 50px;
-}
