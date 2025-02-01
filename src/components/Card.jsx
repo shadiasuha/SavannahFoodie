@@ -22,14 +22,28 @@ const Card = ({ restaurant }) => {
           <a href={restaurant.menus.dinner}>Dinner</a>
         </p>
         <p></p>
-        <p>Address: {restaurant.address}</p>
-        <p>Phone Number: {restaurant.phoneNumber}</p>
-        <p>Hours: {restaurant.hours}</p>
-        <p>Cuisine Type: {restaurant.cuisineType}</p>
-        <p>Popular Dishes: {restaurant.popularDishes}</p>
-        <p>Dining Options: {restaurant.diningOptions}</p>
-        <p>Loyalty Program: {restaurant.loyaltyProgram}</p>
-        <p>Wheelchair Accessible: {restaurant.wheelchairAccessible}</p>
+        <p>
+          <strong>Address: </strong>
+          {restaurant.address}
+        </p>
+        <p>
+          <strong>Phone Number:</strong> {restaurant.phoneNumber}
+        </p>
+        <p>
+          <strong>Hours:</strong> {restaurant.hours}
+        </p>
+        <p>
+          <strong>Cuisine Type:</strong> {restaurant.cuisineType}
+        </p>
+        <p>
+          <strong>Popular Dishes:</strong> {restaurant.popularDishes}
+        </p>
+        <p>
+          <strong>Dining Options:</strong> {restaurant.diningOptions}
+        </p>
+        <p>
+          <strong>Loyalty Program:</strong> {restaurant.loyaltyProgram}
+        </p>
       </div>
     </div>
   )

@@ -13,9 +13,7 @@
 body {
   margin: 0 auto;
   box-sizing: border-box;
-  /* height: 100vh;
-  width: 100vh; */
-  /* background-color: blanchedalmond; */
+  height: 100vh;
   background: linear-gradient(blanchedalmond, rgb(198, 222, 241));
   font-family: 'Rasa', serif;
   font-size: 15px;
@@ -65,28 +63,21 @@ h3 {
 }
 
 p {
-  padding: 2px;
+  padding: 5px;
   margin: 0;
 }
 
 .cardGrid {
-  display: grid;
+  /* display: grid;
+  grid-template-columns: repeat(autofill, minmax(75px, max-content));
+  width: 20rem; */
+  display: flex;
   flex-wrap: wrap;
-  /* grid-template-columns: repeat(auto-fit, minmax(400px, 1fr)); */
-  grid-template-columns: minmax(0, 1fr) minmax(0, 1fr) minmax(0, 1fr);
-
-  grid-template-rows: auto-fit;
-  gap: 20px;
-  justify-content: center;
-  /* grid-gap: 5vh;
-  grid-template-columns: repeat(5);
-  grid-template-rows: repeat(5); */
 }
 
 .cardGridItems {
   display: flex;
-  flex-direction: row;
-  justify-content: left;
+  align-items: left;
 }
 /* .cardGrid {
   height: 3000px;
