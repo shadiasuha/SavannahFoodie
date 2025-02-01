@@ -11,9 +11,12 @@
 }
 
 body {
+  margin: 0 auto;
   box-sizing: border-box;
-  height: 100vh;
-  background-color: blanchedalmond;
+  /* height: 100vh;
+  width: 100vh; */
+  /* background-color: blanchedalmond; */
+  background: linear-gradient(blanchedalmond, rgb(198, 222, 241));
   font-family: 'Rasa', serif;
   font-size: 15px;
 }
@@ -25,13 +28,23 @@ body {
   margin: 0;
 }
 
-img {
+.gridImage {
   height: 200px;
   width: 300px;
   border: 1px solid black;
   box-shadow: 5px 5px 5px hsla(0, 0%, 0%, 0.2);
   border-radius: 15%;
   margin: 20px;
+}
+
+.header {
+  display: block;
+  margin: 0 auto;
+  width: 800px;
+  height: 300px;
+  background-image: url('./images/savannah.png');
+  background-repeat: no-repeat;
+  text-align: center;
 }
 
 h1 {
@@ -58,13 +71,21 @@ p {
 
 .cardGrid {
   display: grid;
-  grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
-  grid-template-rows: 1fr 1fr 1fr 1fr 1fr;
-  width: 75%;
+  flex-wrap: wrap;
+  /* grid-template-columns: repeat(auto-fit, minmax(400px, 1fr)); */
+  grid-template-columns: minmax(0, 1fr) minmax(0, 1fr) minmax(0, 1fr);
+
+  grid-template-rows: auto-fit;
+  gap: 20px;
+  justify-content: center;
+  /* grid-gap: 5vh;
+  grid-template-columns: repeat(5);
+  grid-template-rows: repeat(5); */
 }
 
 .cardGridItems {
   display: flex;
+  flex-direction: row;
   justify-content: left;
 }
 /* .cardGrid {
@@ -96,6 +117,10 @@ p {
   text-align: center;
 }
 
+/* .header {
+  width: 100%;
+  text-align: center;
+} */
 .footer {
   bottom: 0;
   width: 100%;
