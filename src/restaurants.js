@@ -127,8 +127,7 @@ const restaurants = [
   },
   {
     id: 6,
-    restaurantImage:
-      'https://vrconcierge.com/wp-content/uploads/2022/09/the-grey-savannah-ga-exterior-1-768x512.jpg',
+    restaurantImage: '/RestaurantPics/Grey.png',
     restaurantName: 'The Grey',
     googleReviewRating: '4.4',
     address: '109 Martin Luther King Jr Blvd, Savannah, GA 31401',
@@ -152,8 +151,7 @@ const restaurants = [
 
   {
     id: 7,
-    restaurantImage:
-      'https://d1bb1mccaihlpl.cloudfront.net/variants/92u1ap0wzqlyahvvfr0cew4pqrbm/396b2c567ce2cb22ac6891c1f03012a0e8eba3db6b86ec7f20508076314e8ba2',
+    restaurantImage: '/RestaurantPics/Alligator.png',
     restaurantName: 'Alligator Soul',
     googleReviewRating: '4.6',
     address: '114 Barnard St, Savannah, GA 31401',
@@ -175,8 +173,7 @@ const restaurants = [
 
   {
     id: 8,
-    restaurantImage:
-      'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLmkw-EI_g6VYf0XOTTkvEORsC0o8bRIE67w&s',
+    restaurantImage: '/RestaurantPics/SimpleSoul.png',
     restaurantName: 'Simple Soul',
     googleReviewRating: '4.8',
     address: '1915 Montgomery St, Savannah, GA 31401',
@@ -201,8 +198,7 @@ const restaurants = [
 
   {
     id: 9,
-    restaurantImage:
-      'https://welcometosavannah.com/wp-content/uploads/2022/05/Madame-Butterfly-Restaurant-Hi_Res-4.jpg',
+    restaurantImage: '/RestaurantPics/Madame.png',
     restaurantName: 'Madame Butterfly',
     googleReviewRating: '4.5',
     address: '110 W Congress St, Savannah, GA 31401',
@@ -229,8 +225,7 @@ const restaurants = [
 
   {
     id: 10,
-    restaurantImage:
-      'https://i.pinimg.com/564x/94/b6/f5/94b6f51ab7989fe490823abab017abc0.jpg',
+    restaurantImage: '/RestaurantPics/Vics.png',
     restaurantName: 'Vics On the River',
     googleReviewRating: '4.4',
     address: '26 E Bay St, Savannah, GA 31401',
@@ -254,8 +249,7 @@ const restaurants = [
 
   {
     id: 11,
-    restaurantImage:
-      'https://myareanetwork-photos.s3.amazonaws.com/bizlist_photos/f/282804_1530558020.jpg?0',
+    restaurantImage: '/RestaurantPics/Public.png',
     restaurantName: 'Public Kitchen & Bar',
     googleReviewRating: '4.5',
     address: '1 W Liberty St, Savannah, GA 31401',
@@ -283,8 +277,7 @@ const restaurants = [
 
   {
     id: 12,
-    restaurantImage:
-      'https://images.squarespace-cdn.com/content/v1/552d34c5e4b0e876878ce8e6/1450759742376-HP4YB37KB0L5WAL1ZEKA/32+Crop.jpg?format=2500w',
+    restaurantImage: '/RestaurantPics/Cotton.png',
     restaurantName: 'Cotton & Rye',
     googleReviewRating: '4.7',
     address: '1801 Habersham St, Savannah, GA 31401',
@@ -308,8 +301,7 @@ const restaurants = [
 
   {
     id: 13,
-    restaurantImage:
-      'https://image.resy.com/3/003/2/65856/bc7cb05af94f86a17b35780828566c05c132ef11/jpg/1:1/800',
+    restaurantImage: '/RestaurantPics/Husk.png',
     restaurantName: 'Husk Savannah',
     googleReviewRating: '4.4',
     address: '12 W Oglethorpe Ave, Savannah, GA 31401',
@@ -336,8 +328,7 @@ const restaurants = [
 
   {
     id: 14,
-    restaurantImage:
-      'https://tdr.aaa.com/tdr-images/variation/1752070?ratio=9:6&rwidth=500',
+    restaurantImage: '/RestaurantPics/Bibiana.png',
     restaurantName: 'Saint Bibiana',
     googleReviewRating: '4.8',
     address: '700 Drayton St, Savannah, GA 31401',
@@ -361,8 +352,7 @@ const restaurants = [
 
   {
     id: 15,
-    restaurantImage:
-      'https://jtvsbuilders.com/wp-content/uploads/2021/08/common-thread-portfolio-01.jpg',
+    restaurantImage: '/RestaurantPics/Common.png',
     restaurantName: 'Common Thread',
     googleReviewRating: '4.7',
     address: '122 E 37th St, Savannah, GA 31401',
@@ -385,8 +375,7 @@ const restaurants = [
 
   {
     id: 16,
-    restaurantImage:
-      'https://images.getbento.com/accounts/d96d0f4a1856c4306881283280d8e69f/media/images/29876IMG_4556.jpg?w=1200&fit=crop&auto=compress,format&cs=origin&h=600',
+    restaurantImage: '/RestaurantPics/Chart.png',
     restaurantName: 'Chart House Savannah',
     googleReviewRating: '4.1',
     address: '202 W Bay St, Savannah, GA 31401',
@@ -412,8 +401,7 @@ const restaurants = [
 
   {
     id: 17,
-    restaurantImage:
-      'https://images.squarespace-cdn.com/content/v1/64a073ebf34ed93ec4021183/1689893531483-AJH6WVQPOYVYQOOTM982/SV+Images+Strangebird-1+-+website.jpg',
+    restaurantImage: '/RestaurantPics/Strange.png',
     restaurantName: 'Strange Bird Savannah',
     googleReviewRating: '4.7',
     address: '1220 Barnard St, Savannah, GA 31401',
@@ -437,8 +425,7 @@ const restaurants = [
 
   {
     id: 18,
-    restaurantImage:
-      'https://thevendry.com/cdn-cgi/image/width=3840,quality=75,fit=contain,metadata=none,format=auto/https%3A%2F%2Fs3.us-east-1.amazonaws.com%2Fuploads.thevendry.co%2F24983%2F1678379771110_46470610_10155719703406771_8748619455900155904_n.jpg',
+    restaurantImage: '/RestaurantPics/Crystal.png',
     restaurantName: 'Crystal Beer Parlor',
     googleReviewRating: '4.7',
     address: '301 W Jones St, Savannah, GA 31401',
@@ -462,8 +449,7 @@ const restaurants = [
 
   {
     id: 19,
-    restaurantImage:
-      'https://jetsetpets.com/wp-content/uploads/elementor/thumbs/Brochus-Family-Tradition-Pet-Friendly-Restaurant-Savannah-GA-qw1n9krsti21dhh966qoab43ig6sr0jspdvwpyl92y.jpg',
+    restaurantImage: '/RestaurantPics/Brochus.png',
     restaurantName: 'Brochus Family Tradition',
     googleReviewRating: '4.7',
     address: '2400 Bull St Suite 8, Savannah, GA 31401',
@@ -488,8 +474,7 @@ const restaurants = [
 
   {
     id: 20,
-    restaurantImage:
-      'https://www.mashed.com/img/gallery/the-untold-truth-of-maple-street-biscuit-company/l-intro-1629217538.jpg',
+    restaurantImage: '/RestaurantPics/Maple.png',
     restaurantName: 'Maple Street Biscuit Company',
     googleReviewRating: '4.5',
     address: '220 W Broughton St, Savannah, GA 31401',
@@ -515,8 +500,7 @@ const restaurants = [
 
   {
     id: 21,
-    restaurantImage:
-      'https://www.savannahnow.com/gcdn/authoring/2018/08/14/NSMN/ghows-GA-7367de05-bda5-4306-e053-0100007fe735-4e94d609.jpeg?width=660&height=440&fit=crop&format=pjpg&auto=webp',
+    restaurantImage: '/RestaurantPics/SavannahSeafood.png',
     restaurantName: 'Savannah Seafood Shack',
     googleReviewRating: '4.5',
     address: '116 E Broughton St, Savannah, GA 31401',
@@ -540,7 +524,7 @@ const restaurants = [
 
   {
     id: 22,
-    restaurantImage: 'https://images.otstatic.com/prod1/32003719/3/huge.jpg',
+    restaurantImage: '/RestaurantPics/Elizabeth.png',
     restaurantName: 'Elizabeths on 37th',
     googleReviewRating: '4.7',
     address: '105 E 37th St, Savannah, GA 31401',
@@ -564,8 +548,7 @@ const restaurants = [
 
   {
     id: 23,
-    restaurantImage:
-      'https://media-cdn.tripadvisor.com/media/photo-m/1280/1c/68/36/0b/photo9jpg.jpg',
+    restaurantImage: '/RestaurantPics/Collins.png',
     restaurantName: 'The Collins Quarter',
     googleReviewRating: '4.6',
     address: '151 Bull St, Savannah, GA 31401',
@@ -594,8 +577,7 @@ const restaurants = [
 
   {
     id: 24,
-    restaurantImage:
-      'https://thepirateshouse.com/wp-content/uploads/2018/08/IMG_9332-1-min.jpg',
+    restaurantImage: '/RestaurantPics/Pirates.png',
     restaurantName: 'The Pirates House',
     googleReviewRating: '4.3',
     address: '20 E Broad St, Savannah, GA 31401',
@@ -621,8 +603,7 @@ const restaurants = [
 
   {
     id: 25,
-    restaurantImage:
-      'https://thevendry.com/cdn-cgi/image/width=3840,quality=75,fit=contain,metadata=none,format=auto/https%3A%2F%2Fs3.us-east-1.amazonaws.com%2Fuploads.thevendry.co%2F24983%2F1678393036815_SBS-27-copy.jpg',
+    restaurantImage: '/RestaurantPics/Vault.png',
     restaurantName: 'The Vault',
     googleReviewRating: '4.6',
     address: '2112 Bull St, Savannah, GA 31401',
