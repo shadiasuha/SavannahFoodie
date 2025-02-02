@@ -1,8 +1,7 @@
 const restaurants = [
   {
     id: 1,
-    restaurantImage:
-      'https://savannah4visitors.com/wp-content/uploads/2021/06/ardsleystation.jpg',
+    restaurantImage: '/RestaurantPics/Ardsley.png',
     restaurantName: 'Ardsley Station',
     googleReviewRating: '4.7',
     address: '102 E Victory Drive Savannah, GA 31405',
@@ -26,8 +25,7 @@ const restaurants = [
 
   {
     id: 2,
-    restaurantImage:
-      'https://www.savannah.com/wp-content/uploads/sign-saying-Treylor-Park-with-blue-sky-and-palm-tree.jpg',
+    restaurantImage: '/RestaurantPics/Treylor.png',
     restaurantName: 'Treylor Park',
     googleReviewRating: '4.5',
     address: '115 E Bay St, Savannah, GA 31401',
@@ -55,8 +53,7 @@ const restaurants = [
 
   {
     id: 3,
-    restaurantImage:
-      'https://visitsavannah.com/sites/default/files/styles/video_player_poster/public/listing_images/savannah-555460_489790621037444_2070619977_n0-1c941d915056a36_1c941ecc-5056-a36a-084fb0a35651bbc6.jpg?itok=YV0zTIiB',
+    restaurantImage: '/RestaurantPics/Pink.png',
     restaurantName: 'The Olde Pink House',
     googleReviewRating: '4.6',
     address: ' 23 Abercorn St, Savannah, GA 31401',
@@ -81,8 +78,7 @@ const restaurants = [
 
   {
     id: 4,
-    restaurantImage:
-      'https://eatitandlikeit.com/wp-content/uploads/2024/08/B5C4FC94-8CDF-4C61-87C5-BC7941415420.jpg',
+    restaurantImage: '/RestaurantPics/Flora.png',
     restaurantName: 'Flora and Fauna',
     googleReviewRating: '4.7',
     address: '2401 Bull Street, Savannah, GA 31401',
@@ -107,8 +103,7 @@ const restaurants = [
   },
   {
     id: 5,
-    restaurantImage:
-      'https://www.indieonthemove.com/resize/images/users/7a572aea-6823-4da2-b4c4-d0956c5b86f2/Ohd5DQvFUIuAhJke5zSl07Q7l0jHA9g9XuUD5bOG.jpg',
+    restaurantImage: '/RestaurantPics/Jazzd.png',
     restaurantName: 'Jazzd Tapas Bar',
     googleReviewRating: '4.6',
     address: '52 Barnard St. Savannah, GA 31401',
