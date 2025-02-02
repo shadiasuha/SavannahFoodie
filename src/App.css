@@ -15,8 +15,9 @@ body {
   box-sizing: border-box;
   height: 100vh;
   background-color: rgb(252, 241, 226);
-  /* background: linear-gradient(blanchedalmond, rgb(198, 222, 241)); */
-
+  background-image: url(./images/splotchedBackground.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
   background-size: 100% 100%;
   font-family: 'Rasa', serif;
   font-size: 15px;
@@ -85,6 +86,7 @@ p {
 .card {
   width: 18vw;
   margin: 10px;
+
   transition: all 0.5s ease-in-out;
 }
 
