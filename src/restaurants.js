@@ -83,7 +83,7 @@ const restaurants = [
     id: 4,
     restaurantImage:
       'https://eatitandlikeit.com/wp-content/uploads/2024/08/B5C4FC94-8CDF-4C61-87C5-BC7941415420.jpg',
-    restaurantName: 'Flora and Fauna Savannah',
+    restaurantName: 'Flora and Fauna',
     googleReviewRating: '4.7',
     address: '2401 Bull Street, Savannah, GA 31401',
     phoneNumber: '(912) 777-5888',
@@ -182,7 +182,7 @@ const restaurants = [
     id: 8,
     restaurantImage:
       'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLmkw-EI_g6VYf0XOTTkvEORsC0o8bRIE67w&s',
-    restaurantName: 'Simple Soul of Savannah',
+    restaurantName: 'Simple Soul',
     googleReviewRating: '4.8',
     address: '1915 Montgomery St, Savannah, GA 31401',
     phoneNumber: '(912) 777-3066',
@@ -261,7 +261,7 @@ const restaurants = [
     id: 11,
     restaurantImage:
       'https://myareanetwork-photos.s3.amazonaws.com/bizlist_photos/f/282804_1530558020.jpg?0',
-    restaurantName: 'The Public Kitchen & Bar',
+    restaurantName: 'Public Kitchen & Bar',
     googleReviewRating: '4.5',
     address: '1 W Liberty St, Savannah, GA 31401',
     phoneNumber: '(912) 200-4045',
@@ -628,7 +628,7 @@ const restaurants = [
     id: 25,
     restaurantImage:
       'https://thevendry.com/cdn-cgi/image/width=3840,quality=75,fit=contain,metadata=none,format=auto/https%3A%2F%2Fs3.us-east-1.amazonaws.com%2Fuploads.thevendry.co%2F24983%2F1678393036815_SBS-27-copy.jpg',
-    restaurantName: 'The Vault Kitchen & Market',
+    restaurantName: 'The Vault',
     googleReviewRating: '4.6',
     address: '2112 Bull St, Savannah, GA 31401',
     phoneNumber: '(912) 201-1950',
