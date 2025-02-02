@@ -2,7 +2,7 @@ import '../App.css'
 
 const Card = ({ restaurant }) => {
   return (
-    <div>
+    <div className="card">
       <h3>{restaurant.restaurantName}</h3>
       <div>
         <div className="cardGrid">
