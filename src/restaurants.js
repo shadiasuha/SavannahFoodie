@@ -376,7 +376,7 @@ const restaurants = [
   {
     id: 16,
     restaurantImage: '/RestaurantPics/Chart.png',
-    restaurantName: 'Chart House Savannah',
+    restaurantName: 'Chart House',
     googleReviewRating: '4.1',
     address: '202 W Bay St, Savannah, GA 31401',
     phoneNumber: '(912) 234-6686',
@@ -402,7 +402,7 @@ const restaurants = [
   {
     id: 17,
     restaurantImage: '/RestaurantPics/Strange.png',
-    restaurantName: 'Strange Bird Savannah',
+    restaurantName: 'Strange Bird',
     googleReviewRating: '4.7',
     address: '1220 Barnard St, Savannah, GA 31401',
     phoneNumber: ' (912) 250-9500',
@@ -450,7 +450,7 @@ const restaurants = [
   {
     id: 19,
     restaurantImage: '/RestaurantPics/Brochus.png',
-    restaurantName: 'Brochus Family Tradition',
+    restaurantName: 'Brochus',
     googleReviewRating: '4.7',
     address: '2400 Bull St Suite 8, Savannah, GA 31401',
     phoneNumber: '(912) 777-3066',
@@ -475,7 +475,7 @@ const restaurants = [
   {
     id: 20,
     restaurantImage: '/RestaurantPics/Maple.png',
-    restaurantName: 'Maple Street Biscuit Company',
+    restaurantName: 'Maple Street',
     googleReviewRating: '4.5',
     address: '220 W Broughton St, Savannah, GA 31401',
     phoneNumber: '(912) 349-7301',
