@@ -13,7 +13,9 @@ const Card = ({ restaurant }) => {
             <a href={restaurant.socialMedia.instagram}>Instagram</a>
           </p>
           <img src={restaurant.restaurantImage} alt="" className="gridImage" />
-          <p className="subheading">Rating: {restaurant.restaurantRating}</p>
+          <p className="subheading">
+            Google Review Rating: {restaurant.googleReviewRating}
+          </p>
           <p></p>
           <p className="subheading">
             Menus: &nbsp;&nbsp;&nbsp;&nbsp;
