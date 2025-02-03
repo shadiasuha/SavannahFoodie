@@ -4,14 +4,12 @@ The inspiration for this project stems from years of foodie adventures that I ha
 
 Image Sources Used in Project:
 
-[Alligator Soul](https://d1bb1mccaihlpl.cloudfront.net/variants/92u1ap0wzqlyahvvfr0cew4pqrbm/396b2c567ce2cb22ac6891c1f03012a0e8eba3db6b86ec7f20508076314e8ba2)
-[Ardsley Station],
+[Alligator Soul](https://d1bb1mccaihlpl.cloudfront.net/variants/92u1ap0wzqlyahvvfr0cew4pqrbm/396b2c567ce2cb22ac6891c1f03012a0e8eba3db6b86ec7f20508076314e8ba2),
+[Ardsley Station](https://savannah4visitors.com/wp-content/uploads/2021/06/ardsleystation.jpg),
 [Brochus](https://jetsetpets.com/wp-content/uploads/elementor/thumbs/Brochus-Family-Tradition-Pet-Friendly-Restaurant-Savannah-GA-qw1n9krsti21dhh966qoab43ig6sr0jspdvwpyl92y.jpg),
 [Chart House](https://images.getbento.com/accounts/d96d0f4a1856c4306881283280d8e69f/media/images/29876IMG_4556.jpg?w=1200&fit=crop&auto=compress,format&cs=origin&h=600'),
 [Collins Quarter](https://media-cdn.tripadvisor.com/media/photo-m/1280/1c/68/36/0b/photo9jpg.jpg',),
-[Common Thread](https://jtvsbuilders.com/wp-content/uploads/2021/08/common-thread-portfolio-01.jpg',
-restaurantName: 'Common Thread
-,)
+[Common Thread](https://jtvsbuilders.com/wp-content/uploads/2021/08/common-thread-portfolio-01.jpg'),
 [Cotton & Rye](https://images.squarespace-cdn.com/content/v1/552d34c5e4b0e876878ce8e6/1450759742376-HP4YB37KB0L5WAL1ZEKA/32+Crop.jpg?format=2500w),
 [Crystal Beer Parlor](https://thevendry.com/cdn-cgi/image/width=3840,quality=75,fit=contain,metadata=none,format=auto/https%3A%2F%2Fs3.us-east-1.amazonaws.com%2Fuploads.thevendry.co%2F24983%2F1678379771110_46470610_10155719703406771_8748619455900155904_n.jpg),
 [Elizabeths on 37th](https://images.otstatic.com/prod1/32003719/3/huge.jpg),
