@@ -46,7 +46,7 @@ const restaurants = [
     loyaltyProgram: 'Ballyhoo Rewards',
     website: 'https://www.treylorpark.com/',
     socialMedia: {
-      facebook: 'https://www.facebook.com/search/top?q=treylor%20park',
+      facebook: 'https://www.facebook.com/TPSavannahGA',
       instagram: 'https://www.instagram.com/treylorparkrestaurants/?hl=en'
     }
   },
@@ -98,7 +98,7 @@ const restaurants = [
     website: 'https://www.florafaunasav.com/',
     socialMedia: {
       facebook: 'https://www.facebook.com/florafaunasav',
-      instagram: 'https://www.instagram.com/floraandfaunasav/?hl=en'
+      instagram: 'https://www.instagram.com/floraandfaunasav/'
     }
   },
   {
@@ -167,7 +167,7 @@ const restaurants = [
     website: 'https://alligatorsoul.com/',
     socialMedia: {
       facebook: 'https://www.facebook.com/AlligatorSoulGA',
-      instagram: 'https://www.instagram.com/alligatorsoul/?hl=en'
+      instagram: 'https://www.instagram.com/alligatorsoul/'
     }
   },
 
@@ -289,7 +289,7 @@ const restaurants = [
     loyaltyProgram: 'No',
     website: 'https://www.cottonandrye.com/',
     socialMedia: {
-      facebook: 'hhttps://www.facebook.com/cotrye',
+      facebook: 'https://www.facebook.com/cotrye',
       instagram:
         'https://www.instagram.com/explore/locations/858197970/cotton-rye/'
     }
@@ -342,7 +342,7 @@ const restaurants = [
     website: 'https://www.saint-bibiana.com/',
     socialMedia: {
       facebook: 'https://www.facebook.com/saintbibianasavannah',
-      instagram: 'https://www.instagram.com/saintbibiana/?hl=en'
+      instagram: 'https://www.instagram.com/saintbibiana/'
     }
   },
 
@@ -362,10 +362,10 @@ const restaurants = [
     },
     diningOptions: 'Dine in',
     loyaltyProgram: 'No',
-    website: 'https://www.commonthreadsavannah.com//',
+    website: 'https://www.commonthreadsavannah.com/',
     socialMedia: {
       facebook: 'https://www.facebook.com/commonthreadsavannah',
-      instagram: 'https://www.instagram.com/commonthreadsav/?hl=en'
+      instagram: 'https://www.instagram.com/commonthreadsav/'
     }
   },
 
@@ -415,7 +415,7 @@ const restaurants = [
     website: 'https://www.strangebirdsavannah.com/',
     socialMedia: {
       facebook: 'https://www.facebook.com/strangebirdsavannah',
-      instagram: 'https://www.instagram.com/strangebird_savannah/?hl=en'
+      instagram: 'https://www.instagram.com/strangebird_savannah/'
     }
   },
 
@@ -513,7 +513,7 @@ const restaurants = [
     loyaltyProgram: 'Savannah Shack Loyalty Program',
     website: 'https://savannahseafoodshack.com/',
     socialMedia: {
-      facebook: 'http://www.facebook.com/4941042',
+      facebook: 'https://www.facebook.com/savannahseafoodshack',
       instagram: 'http://instagram.com/savannahseafoodshack'
     }
   },
