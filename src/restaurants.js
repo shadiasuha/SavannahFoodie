@@ -183,11 +183,7 @@ const restaurants = [
     cuisineType: 'Soul Food',
     popularDishes:
       'Fried Chicken, Fried or Grilled Salmon and Grits, Chicken & Waffles, Turkey Wings,  Beef Pot Roast, Red Velvet Cake',
-    menus: {
-      breakfastOrBrunch: 'https://www.florafaunasav.com/daytime-menu',
-      lunch: 'https://www.florafaunasav.com/supper-club-menu',
-      dinner: 'https://www.florafaunasav.com/supper-club-menu'
-    },
+    menus: {},
     diningOptions: 'Dine in, Delivery, Takeout',
     loyaltyProgram: 'No',
     socialMedia: {
@@ -561,7 +557,6 @@ const restaurants = [
     menus: {
       breakfastOrBrunch:
         'https://downtown.thecollinsquarter.com/savannah-collins-quarter-food-menu',
-      lunch: 'https://www.florafaunasav.com/supper-club-menu',
       dinner:
         'https://downtown.thecollinsquarter.com/savannah-collins-quarter-food-menu'
     },
