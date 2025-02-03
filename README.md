@@ -8,7 +8,7 @@ Image Sources Used in Project:
 [Ardsley Station](https://savannah4visitors.com/wp-content/uploads/2021/06/ardsleystation.jpg),
 [Brochus](https://jetsetpets.com/wp-content/uploads/elementor/thumbs/Brochus-Family-Tradition-Pet-Friendly-Restaurant-Savannah-GA-qw1n9krsti21dhh966qoab43ig6sr0jspdvwpyl92y.jpg),
 [Chart House](https://images.getbento.com/accounts/d96d0f4a1856c4306881283280d8e69f/media/images/29876IMG_4556.jpg?w=1200&fit=crop&auto=compress,format&cs=origin&h=600'),
-[Collins Quarter](https://media-cdn.tripadvisor.com/media/photo-m/1280/1c/68/36/0b/photo9jpg.jpg',),
+[Collins Quarter](https://media-cdn.tripadvisor.com/media/photo-m/1280/1c/68/36/0b/photo9jpg.jpg),
 [Common Thread](https://jtvsbuilders.com/wp-content/uploads/2021/08/common-thread-portfolio-01.jpg'),
 [Cotton & Rye](https://images.squarespace-cdn.com/content/v1/552d34c5e4b0e876878ce8e6/1450759742376-HP4YB37KB0L5WAL1ZEKA/32+Crop.jpg?format=2500w),
 [Crystal Beer Parlor](https://thevendry.com/cdn-cgi/image/width=3840,quality=75,fit=contain,metadata=none,format=auto/https%3A%2F%2Fs3.us-east-1.amazonaws.com%2Fuploads.thevendry.co%2F24983%2F1678379771110_46470610_10155719703406771_8748619455900155904_n.jpg),
@@ -28,4 +28,4 @@ Image Sources Used in Project:
 [The Pirates House](https://thepirateshouse.com/wp-content/uploads/2018/08/IMG_9332-1-min.jpg),
 [The Vault](https://thevendry.com/cdn-cgi/image/width=3840,quality=75,fit=contain,metadata=none,format=auto/https%3A%2F%2Fs3.us-east-1.amazonaws.com%2Fuploads.thevendry.co%2F24983%2F1678393036815_SBS-27-copy.jpg),
 [Treylor Park](https://www.savannah.com/wp-content/uploads/sign-saying-Treylor-Park-with-blue-sky-and-palm-tree.jpg),
-[Vics on the River](https://i.pinimg.com/564x/94/b6/f5/94b6f51ab7989fe490823abab017abc0.jpg),
+[Vics on the River](https://i.pinimg.com/564x/94/b6/f5/94b6f51ab7989fe490823abab017abc0.jpg)
