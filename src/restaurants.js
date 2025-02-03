@@ -549,7 +549,7 @@ const restaurants = [
   {
     id: 23,
     restaurantImage: '/RestaurantPics/Collins.png',
-    restaurantName: 'The Collins Quarter',
+    restaurantName: 'Collins Quarter',
     googleReviewRating: '4.6',
     address: '151 Bull St, Savannah, GA 31401',
     phoneNumber: '(912) 777-4147',
