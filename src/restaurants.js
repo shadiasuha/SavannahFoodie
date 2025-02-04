@@ -4,7 +4,7 @@ const restaurants = [
     restaurantImage: '/RestaurantPics/Ardsley.png',
     restaurantName: 'Ardsley Station',
     googleReviewRating: '4.7',
-    address: '102 E Victory Drive Savannah, GA 31405',
+    address: '102 E Victory Dr, Savannah, GA 31405',
     phoneNumber: '(912) 777-5888',
     hours: 'Sunday - Saturday 11 AM - 1 AM',
     cuisineType: 'American Southern',
@@ -56,7 +56,7 @@ const restaurants = [
     restaurantImage: '/RestaurantPics/Pink.png',
     restaurantName: 'The Olde Pink House',
     googleReviewRating: '4.6',
-    address: ' 23 Abercorn St, Savannah, GA 31401',
+    address: '23 Abercorn St, Savannah, GA 31401',
     phoneNumber: '(912) 232-4286',
     hours:
       'Sunday and Monday 5 PM - 10:30 PM , Tuesday and Wednesday 11 AM - 10:30 PM , Thursday 9 AM - 10:30 PM, Friday and Saturday 11 AM - 11 PM',
@@ -81,7 +81,7 @@ const restaurants = [
     restaurantImage: '/RestaurantPics/Flora.png',
     restaurantName: 'Flora and Fauna',
     googleReviewRating: '4.7',
-    address: '2401 Bull Street, Savannah, GA 31401',
+    address: '2401 Bull St, Savannah, GA 31401',
     phoneNumber: '(912) 777-5888',
     hours:
       'Monday and Tuesday 8 AM - 2 PM , Wednesday, Thursday, and Sunday 5 PM - 9 PM, Friday and Saturday 5 PM - 10 PM ',
@@ -106,7 +106,7 @@ const restaurants = [
     restaurantImage: '/RestaurantPics/Jazzd.png',
     restaurantName: 'Jazzd Tapas Bar',
     googleReviewRating: '4.6',
-    address: '52 Barnard St. Savannah, GA 31401',
+    address: '52 Barnard St, Savannah, GA 31401',
     phoneNumber: '(912) 236-7777',
     hours:
       'Wednesday, Thursday, and Sunday 4 PM - 9 PM, Friday and Saturday 4 PM  - 11 PM',
